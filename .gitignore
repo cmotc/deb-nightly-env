@@ -1,3 +1,5 @@
+*.udeb
+*.diff*
 *.deb
 *.tar.*
 *.orig.tar.*
